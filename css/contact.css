@@ -356,6 +356,12 @@
   .contact-form {
     gap: var(--spacing-md);
   }
+
+  .map-container .section-title {
+    margin-bottom: var(--spacing-lg);
+    text-align: center;
+    padding: 60px;
+  }
 }
 
 @media (max-width: 360px) {
